@@ -1,0 +1,8 @@
+#acoplamento_estrutural
+
+Acoplamento estrutural é o que permite que a sociedade seja uma rede coordenada, mesmo que cada parte dela (Direito, Religião, Ciência) seja "teimosa" e siga apenas suas próprias regras.
+
+Um sistema não recebe ordens de fora, pois um não pode dizer ao outro o que fazer. Porém, um sistema perturba o outro. Acoplamento estrutural é quando essa perturbação se torna permanente e canalizada. Os sistemas passam a "contar" com a existência um do outro para funcionar.
+
+
+
