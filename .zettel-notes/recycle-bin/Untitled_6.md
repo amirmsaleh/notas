@@ -1,11 +1,12 @@
 ---
-title: $title$
-date: $$yyyyMMdd$$
-id: $id$
+title: "${1:Titulo}"
+date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE
+id: $ZKN_ID
 ---
-$$yyyyMMddHHmmss$$
 
-# $title$
+# ${1:Titulo}
+
+$0
 
 ---
 

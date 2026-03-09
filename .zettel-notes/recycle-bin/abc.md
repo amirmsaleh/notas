@@ -1,11 +1,10 @@
 ---
-title: $title$
-date: $$yyyyMMdd$$
-id: $id$
+title: abc
+date: 20260308
+id: 
 ---
-$$yyyyMMddHHmmss$$
 
-# $title$
+# abc
 
 ---
 

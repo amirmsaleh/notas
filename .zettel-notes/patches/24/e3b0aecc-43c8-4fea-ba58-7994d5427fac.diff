@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -11,1 +11,1 @@
+-Um [[20260307105528|sistema]] não recebe ordens de fora, pois um não pode dizer ao outro o que fazer. Porém, um perturba o outro. Acoplamento estrutural é quando essa perturbação se torna permanente e canalizada. Os sistemas passam a "contar" com a existência um do outro para funcionar.
++Um [[20260307105528|sistema]] não recebe ordens de fora, pois um não pode dizer ao outro o que fazer. Porém, um __perturba__ o outro. Acoplamento estrutural é quando essa perturbação se torna permanente e canalizada. Os sistemas passam a "contar" com a existência um do outro para funcionar.

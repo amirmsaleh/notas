@@ -1,0 +1,19 @@
+--- old
++++ new
+@@ -6,1 +6,0 @@
+-
+@@ -9,0 +8,11 @@
++O que se chama de "conhecimento" não é o encontro de um sujeito com um objeto como o preconizado pela filosofia clássica, mas sim o resultado de duas formas de referência que o sistema realiza simultaneamente: a autorreferência e a heterorreferência. 
++
++Todo sistema opera simultaneamente com:
++
++- Auto-referência: relação consigo mesmo
++- Heterorreferência: relação com o ambiente.
++
++Não há a ideia de um sujeito que conhece o mundo, mas sim de sistemas que observam. Cada sistema constrói suas próprias referências.
++
++O mundo não aparece diretamente ao sistema. Aparece mediado pelas operações do próprio sistema.
++
+@@ -13,1 +23,1 @@
+-- [[link_da_citacao]]: Por que essa referência é relevante
++- [[20260307121514]|Social Systems]
