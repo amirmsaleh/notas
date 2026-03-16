@@ -1,0 +1,11 @@
+--- old
++++ new
+@@ -11,1 +11,1 @@
+-Sem um limite que diga o que pertence ou não ao sistema ele se dissolveria no mundo. A abertura é uma conquista do fechamento: quanto mais complexo e fechado for o código de um sistema, mais ele consegue "perceber" e processar a complexidade do mundo.
++Sem um limite que diga o que pertence ou não ao sistema ele se dissolveria no mundo. A abertura é uma conquista do fechamento: quanto mais complexo e fechado for o código de um sistema, mais ele consegue "perceber" e processar a complexidade do mundo. É condição para o desenvolvimento de uma complexidade própria mais elevada. 
+@@ -13,1 +13,1 @@
+-O sistema nunca chegaria a construir sua própria complexidade e seu próprio saber se fosse confundido continuamente com o ambiente [@NiklasLuhmann434, p. 44]. 
++> O sistema nunca chegaria a construir sua própria complexidade e seu próprio saber se fosse confundido continuamente com o ambiente [@NiklasLuhmann434, p. 44]. 
+@@ -15,0 +15,2 @@
++O fechamento operacional exclui do sistema social elementos como pessoas e países. Eles não estão na sociedade, mas sim em seu ambiente [@NiklasLuhmann434, p. 79]. 
++
