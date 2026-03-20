@@ -1,0 +1,25 @@
+--- old
++++ new
+@@ -2,1 +2,1 @@
+-title: Complexidade
++title: Complexidade para Luhmann
+@@ -6,2 +6,17 @@
+-# Complexidade
+-
++# Complexidade para Luhmann
++A complexidade é a medida da incerteza. Situação onde existem mais elementos do que a capacidade do sistema de conectá-los todos entre si.
++Imagine um grupo de 3 pessoas: elas podem conversar facilmente entre si.
++Agora imagine 1 milhão de pessoas: é fisicamente impossível que todos falem com todos ao mesmo tempo.
++A conclusão: Quando o número de elementos cresce, o sistema é obrigado a selecionar quais conexões ele vai manter.
++2. Redução de Complexidade
++Esta é a função primordial de qualquer sistema. O mundo (entorno) é infinitamente complexo; o sistema é sempre menos complexo que o seu ambiente.
++Para sobreviver, o sistema "filtra" a realidade:
++O Sistema Jurídico reduz a complexidade de um conflito humano (que envolve sentimentos, traumas, história) a uma única pergunta: Isso é legal ou ilegal?
++O Sistema Econômico reduz a complexidade das necessidades humanas a uma pergunta: Quanto custa?
++3. O Paradoxo: Reduzir para Aumentar
++Aqui está a parte genial de Luhmann: para conseguir reduzir a complexidade do mundo, o sistema precisa aumentar sua própria complexidade interna.
++Quanto mais complexa é a lei (Direito) ou a tecnologia (Ciência), melhor o sistema consegue "mapear" e reagir aos problemas complexos do entorno. Um sistema simples demais é destruído por um ambiente complexo (como uma empresa pequena tentando lidar com uma crise global sem ter departamentos especializados).
++4. Complexidade e Tempo
++A complexidade também é temporal. Como os elementos do sistema (comunicações) são efêmeros e morrem instantaneamente, o sistema vive sob a pressão de que a próxima conexão seja feita.
++A complexidade gera contingência: "o que está acontecendo agora poderia ser de outro modo".
++O sistema precisa escolher um caminho, descartando outros, o que gera risco.
