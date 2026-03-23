@@ -1,0 +1,11 @@
+--- old
++++ new
+@@ -12,3 +12,2 @@
+- **Informação**: O conteúdo. O sistema escolhe o que está sendo comunicado dentre várias possibilidades. 
+- 
+-**Ato de Comunicar** ou **Mensagem**: O sistema seleciona como ou por que a informação está sendo comunicada. É o ato de comunicar em si.
++- **Informação**: O conteúdo. O sistema escolhe o que está sendo comunicado dentre várias possibilidades. 
++- **Ato de Comunicar** ou **Mensagem**: O sistema seleciona como ou por que a informação está sendo comunicada. É o ato de comunicar em si.
+@@ -16,1 +15,1 @@
+-**Compreensão**: É a seleção final feita pelo sistema. Tem como fundamento a percepção que há uma diferença entre a informação e o ato de comunicar. Significa que o sistema social processou a distinção entre o conteúdo e o ato. Não tem relação com o entendimento, aceitação ou recusa. Mesmo que tenha havido recusa ou que o entendimento tenha sido incorreto, houve comunicação.
++- **Compreensão**: É a seleção final feita pelo sistema. Tem como fundamento a percepção que há uma diferença entre a informação e o ato de comunicar. Significa que o sistema social processou a distinção entre o conteúdo e o ato. Não tem relação com o entendimento, aceitação ou recusa. Mesmo que tenha havido recusa ou que o entendimento tenha sido incorreto, houve comunicação.
