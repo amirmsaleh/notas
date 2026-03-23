@@ -1,0 +1,9 @@
+--- old
++++ new
+@@ -4,1 +4,2 @@
+-id: $id$
++id: $$yyyyMMddHHmmss$$
++tags: #
+@@ -6,2 +7,0 @@
+-$$yyyyMMddHHmmss$$
+-

@@ -1,0 +1,20 @@
+--- old
++++ new
+@@ -2,1 +2,1 @@
+-title: "Sistema"
++title: "Sistema social"
+@@ -5,0 +5,1 @@
++tags: #luhmann
+@@ -6,0 +7,2 @@
++# Sistema social
++Um sistema social é um conjunto [[20260306181315|autopoiético]] de operações que produz e reproduz continuamente a distinção entre sistema e ambiente. É uma diferença em relação ao ambiente que se mantém através de suas próprias operações.
+@@ -7,6 +10,0 @@
+-# Sistema
+-
+-Definição de sistema para Luhmann. 
+-
+-Um sistema é um conjunto [[20260306181315|autopoiético]] de operações que produz e reproduz continuamente a distinção entre sistema e ambiente. É uma diferença em relação ao ambiente que se mantém através de suas próprias operações.
+-
+@@ -15,0 +12,2 @@
++O objeto da teoria são as diversas distinções sistema/ambiente criadas por observadores do social, eles próprios outros sistemas. 
++

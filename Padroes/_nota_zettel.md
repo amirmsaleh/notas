@@ -1,10 +1,9 @@
 ---
 title: $title$
 date: $$yyyyMMdd$$
-id: $id$
+id: $$yyyyMMddHHmmss$$
+tags: #
 ---
-$$yyyyMMddHHmmss$$
-
 # $title$
 
 ---
