@@ -1,10 +1,9 @@
 ---
 title: Linguagem
 date: 2026-03-14
-id: 
+id: 20260314145608
+tags: #temp
 ---
-20260314145608
-
 # Linguagem
 
 ---

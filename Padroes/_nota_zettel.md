@@ -2,7 +2,7 @@
 title: $title$
 date: $$yyyyMMdd$$
 id: $$yyyyMMddHHmmss$$
-tags: #
+tags: #temp
 ---
 # $title$
 

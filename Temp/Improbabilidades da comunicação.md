@@ -2,7 +2,7 @@
 title: Improbabilidades da comunicação
 date: 20260323
 id: 20260323113234
-tags: #
+tags: #temp #luhmann
 ---
 # Improbabilidades da comunicação
 Sistemas sociais p. 182
