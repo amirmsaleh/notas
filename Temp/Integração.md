@@ -1,12 +1,12 @@
 ---
-title: Sentido na comunicação
-date: 20260323
-id: 20260323110526
+title: Integração
+date: 20260330
+id: 20260330105415
 tags: #temp #luhmann
 ---
-# Sentido na comunicação
+# Integração
+Operação de um sistema restringe a operação de outros
 
-Há outras possibilidades 
 ---
 
 ## Referências

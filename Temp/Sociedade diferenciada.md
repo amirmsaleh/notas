@@ -1,12 +1,11 @@
 ---
-title: Sentido na comunicação
-date: 20260323
-id: 20260323110526
+title: Sociedade diferenciada
+date: 20260330
+id: 20260330105338
 tags: #temp #luhmann
 ---
-# Sentido na comunicação
+# Sociedade diferenciada
 
-Há outras possibilidades 
 ---
 
 ## Referências
