@@ -1,0 +1,47 @@
+--- old
++++ new
+@@ -5,1 +5,1 @@
+-tags: #
++tags: #temp #luhmann
+@@ -8,0 +8,28 @@
++Essa é uma das frases mais provocativas de Niklas Luhmann em sua obra **"A Realidade dos Meios de Comunicação"**. Para entender o que ele quer dizer com essa "ilusão transcendental", precisamos mergulhar na forma como os meios de massa constroem a nossa percepção da realidade.
++Luhmann abre o livro com uma afirmação famosa: *"O que sabemos sobre a nossa sociedade, e até sobre o mundo em que vivemos, sabemo-lo através dos meios de comunicação de massa"*.
++Aqui está o desdobramento dessa ideia:
++## 1. O que é o "Transcendental" aqui?
++Luhmann faz uma alusão a Immanuel Kant. Para Kant, o "transcendental" refere-se às condições prévias que tornam o conhecimento possível (como o tempo e o espaço).
++Para Luhmann, os meios de comunicação ocupam esse lugar na modernidade: eles são a **condição de possibilidade** para termos um mundo comum.
++ * Não temos acesso direto à "realidade bruta" do planeta.
++ * Nossa visão do que é o Brasil, a economia global ou a guerra em outro continente é mediada.
++ * O "transcendental" é esse pano de fundo, esse cenário que os meios montam e sobre o qual todos concordamos para podermos conversar.
++## 2. Por que uma "Ilusão"?
++A "ilusão" não significa que os meios de comunicação estão "mentindo" ou espalhando *fake news* (embora possam fazê-lo). O termo é mais profundo:
++ 1. **O Esquecimento da Seleção:** A ilusão consiste no fato de que, ao assistirmos ao telejornal ou lermos um portal, esquecemos que aquilo é uma **construção altamente seletiva**.
++ 2. **A Apagamento do Rastro:** Os meios selecionam o que é notícia baseados em critérios (novidade, conflito, localidade, escândalo). No entanto, o resultado final nos é apresentado como "O Mundo". A "ilusão" é aceitar o produto final sem perceber os filtros que o criaram.
++ 3. **Realidade Duplicada:** Os meios criam uma "realidade de segunda ordem". Nós sabemos que eles são tendenciosos, sabemos que há edição, mas **não temos outra fonte** de realidade global. Agimos como se aquela fosse a única realidade disponível.
++## 3. A Função da Ilusão: Estabilizar o Mundo
++Se não houvesse essa "ilusão transcendental", a sociedade entraria em colapso cognitivo.
++ * Imagine se cada indivíduo tivesse que verificar pessoalmente cada fato do mundo.
++ * Os meios de comunicação fornecem um **estoque de saber comum**. Mesmo que a gente discorde da opinião do jornal, a gente concorda sobre *o que* está sendo discutido (o tema).
++> A ilusão permite que a Sociedade Mundial tenha um "presente" compartilhado. Ela sincroniza bilhões de pessoas em torno dos mesmos eventos, criando a sensação de que vivemos todos no mesmo mundo.
++> 
++## 4. O Observador de Segunda Ordem
++Luhmann argumenta que o homem moderno é um "observador de segunda ordem":
++ * Nós observamos *como* os meios observam o mundo.
++ * Nós desconfiamos da mídia, mas usamos a própria mídia para fundamentar nossa desconfiança.
++ * É um círculo fechado: não há como "sair" da comunicação para checar a "verdade", porque qualquer checagem já seria, novamente, uma comunicação.
++### Resumo
++A "ilusão transcendental" é o processo pelo qual a comunicação de massa gera uma realidade operacional que aceitamos como o horizonte de nossas vidas. É uma ilusão porque **substitui o mundo real por um mundo comunicado**, mas é "transcendental" porque, sem ela, não teríamos sequer um conceito de "mundo" ou de "sociedade" para começo de conversa.
++Você acha que essa "ilusão" ficou mais forte ou mais fragmentada com o surgimento das redes sociais e dos algoritmos, que criam "bolhas" de realidade diferentes para cada pessoa?
+@@ -9,1 +37,0 @@
+----
+@@ -11,10 +38,0 @@
+-## Referências
+-
+-- [[link_da_citacao]]: Por que essa referência é relevante
+-
+----
+-
+-## Conexões
+-
+-- [[ID]]: Explicação de como a nota se conecta à outra
+-

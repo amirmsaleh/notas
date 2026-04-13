@@ -1,0 +1,31 @@
+--- old
++++ new
+@@ -8,4 +8,5 @@
+-Essa é uma das frases mais provocativas de Niklas Luhmann em sua obra [[20260412120739|A Realidade dos Meios de Comunicação]]. Para entender o que ele quer dizer com essa "ilusão transcendental", precisamos mergulhar na forma como os meios de massa constroem a nossa percepção da realidade.
+-Luhmann abre o livro com uma afirmação famosa: *"O que sabemos sobre a nossa sociedade, e até sobre o mundo em que vivemos, sabemo-lo através dos meios de comunicação de massa"*.
+-Aqui está o desdobramento dessa ideia:
+-## 1. O que é o "Transcendental" aqui?
++ [[20260412120739|A Realidade dos Meios de Comunicação]]. 
++
++ > O que sabemos sobre a nossa sociedade, e até sobre o mundo em que vivemos, sabemo-lo através dos meios de comunicação de massa. 
++
++## Transcendental"
+@@ -13,5 +14,6 @@
+-Para Luhmann, os meios de comunicação ocupam esse lugar na modernidade: eles são a **condição de possibilidade** para termos um mundo comum.
+- * Não temos acesso direto à "realidade bruta" do planeta.
+- * Nossa visão do que é o Brasil, a economia global ou a guerra em outro continente é mediada.
+- * O "transcendental" é esse pano de fundo, esse cenário que os meios montam e sobre o qual todos concordamos para podermos conversar.
+-## 2. Por que uma "Ilusão"?
++Os meios de comunicação ocupam esse lugar na modernidade: eles são a condição de possibilidade para termos um mundo comum.
++ * Não temos acesso direto à realidade.
++ * Nossa visão do que é real é mediada.
++ * O transcendental é o cenário que os meios montam e sobre o qual concordamos.
++ 
++## Ilusão
+@@ -27,1 +29,1 @@
+-> 
++
+@@ -33,0 +35,1 @@
++ 
+@@ -35,1 +38,0 @@
+-Você acha que essa "ilusão" ficou mais forte ou mais fragmentada com o surgimento das redes sociais e dos algoritmos, que criam "bolhas" de realidade diferentes para cada pessoa?
