@@ -1,0 +1,19 @@
+--- old
++++ new
+@@ -8,1 +8,1 @@
+-Criar artigo sobre Programa, falando sobre abertura cognitiva do sistema ao ambiente, critérios que definem o que está de um lado e de outro do código e que cada programa é específico para cada sistema.
++Analisar junto com o artigo Programa.
+@@ -71,13 +71,0 @@
+----
+-
+-## Referências
+-
+-- **Fonte:** [[ID_OU_CITAÇÃO]] (Ex: @autor2024 ou link externo)
+-- **Contexto:** Por que essa ideia é relevante? De onde ela surgiu?
+-
+----
+-
+-## Conexões
+-
+-- [[ID]]: Explique brevemente por que esta nota se conecta a esta nova (Ex: "Complementa a teoria X").
+-

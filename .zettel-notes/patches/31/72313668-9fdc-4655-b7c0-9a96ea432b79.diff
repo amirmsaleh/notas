@@ -1,0 +1,15 @@
+--- old
++++ new
+@@ -6,0 +6,1 @@
++tags: #temp #livro/artivo, #${3:tema}
+@@ -10,3 +11,1 @@
+-#${3:tema}
+-
+-## Assunto principal
++## Resumo
+@@ -15,5 +14,0 @@
+-## Notas e Citações
+-- "$4" [@${2:citekey}, p. $5]
+-
+-## Conexões
+-- [[$6]]

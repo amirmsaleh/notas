@@ -1,0 +1,40 @@
+--- old
++++ new
+@@ -26,1 +26,3 @@
+-#### A. Taxonomia de Métodos
++
++### A. Taxonomia de Métodos
++
+@@ -28,0 +30,1 @@
++
+@@ -29,3 +32,7 @@
+-   * **LIME (Local Interpretable Model-agnostic Explanations):** Cria aproximações lineares locais em torno de uma predição específica para identificar quais *features* foram determinantes.
+-   * **SHAP (SHapley Additive exPlanations):** Baseado na teoria dos jogos cooperativos, atribui a cada variável um valor de contribuição para o desvio da predição em relação à média.
+-#### B. Escopo da Explicação
++ 
++* **LIME (Local Interpretable Model-agnostic Explanations):** Cria aproximações lineares locais em torno de uma predição específica para identificar quais *features* foram determinantes.
++
++* **SHAP (SHapley Additive exPlanations):** Baseado na teoria dos jogos cooperativos, atribui a cada variável um valor de contribuição para o desvio da predição em relação à média.
++
++### B. Escopo da Explicação
++
+@@ -33,2 +40,5 @@
+- * **Explicabilidade Local:** Foca na justificativa de uma saída específica (y = f(x)), fundamental para auditoria de erros individuais e suporte à decisão.
+-### 3. O Dilema da Fronteira de Pareto: Acurácia vs. Interpretabilidade
++
++* **Explicabilidade Local:** Foca na justificativa de uma saída específica (y = f(x)), fundamental para auditoria de erros individuais e suporte à decisão.
++
++## 3. O Dilema da Fronteira de Pareto: Acurácia vs. Interpretabilidade
++
+@@ -36,0 +46,1 @@
++
+@@ -41,1 +52,3 @@
+-### 4. Mecanismos de Atenção como Proxy de Explicabilidade
++
++## 4. Mecanismos de Atenção como Proxy de Explicabilidade
++
+@@ -43,1 +56,0 @@
+-No contexto de modelos como o **DeepSeek R1** que você utiliza no Ollama, a **Cadeia de Pensamento (CoT)** atua como uma interface de explicabilidade em linguagem natural, tentando correlacionar os disparos estatísticos internos com uma estrutura lógica de passos que um humano possa validar.
+@@ -45,0 +57,2 @@
++No contexto de modelos como o **DeepSeek R1** a **Cadeia de Pensamento (CoT)** atua como uma interface de explicabilidade em linguagem natural, tentando correlacionar os disparos estatísticos internos com uma estrutura lógica de passos que um humano possa validar.
++

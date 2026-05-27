@@ -1,0 +1,16 @@
+--- old
++++ new
+@@ -9,1 +9,0 @@
+----
+@@ -11,10 +10,1 @@
+-## Referências
+-
+-- [[link_da_citacao]]: Por que essa referência é relevante
+-
+----
+-
+-## Conexões
+-
+-- [[ID]]: Explicação de como a nota se conecta à outra
+-
++semântica - possibilidade de interpretação de mundo

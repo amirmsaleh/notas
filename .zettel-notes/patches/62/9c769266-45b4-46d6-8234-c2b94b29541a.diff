@@ -1,0 +1,15 @@
+--- old
++++ new
+@@ -25,1 +25,0 @@
+----
+@@ -27,1 +26,0 @@
+-## Referências
+@@ -29,1 +27,0 @@
+-- [[link_da_citacao]]: Por que essa referência é relevante
+@@ -31,1 +28,0 @@
+----
+@@ -33,1 +29,0 @@
+-## Conexões
+@@ -35,2 +30,0 @@
+-- [[ID]]: Explicação de como a nota se conecta à outra
+-
