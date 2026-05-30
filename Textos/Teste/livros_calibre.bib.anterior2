@@ -1,0 +1,2265 @@
+@book{ ClariceLispector2,
+    title = "Água Viva",
+    author = "Clarice Lispector",
+    publisher = "LeLivros",
+    year = "2016",
+    month = "jun" }
+
+@book{ LaurentinoGomes3,
+    title = "1889",
+    author = "Laurentino Gomes",
+    publisher = "Editora Globo",
+    year = "2013",
+    month = "jul" }
+
+@book{ LaurentinoGomes4,
+    title = "1822",
+    author = "Laurentino Gomes",
+    publisher = "Nova Fronteira",
+    year = "2010",
+    month = "set" }
+
+@book{ PamelaDruckerman5,
+    title = "Crianças francesas não fazem manha",
+    author = "Pamela Druckerman",
+    publisher = "Fontanar",
+    year = "2012",
+    month = "nov" }
+
+@misc{ AluisiodeAzevedo6,
+    title = "O Cortiço",
+    author = "Aluísio de Azevedo",
+    year = "2013",
+    month = "out" }
+
+@book{ HansChristianAndersen8,
+    title = "Contos de Andersen",
+    author = "Hans Christian Andersen",
+    publisher = "Agrupamento de Escolas de Rio de Mouro",
+    year = "2013",
+    month = "nov" }
+
+@book{ JacobeWilhelmGrimm9,
+    title = "Contos clássicos de Grimm",
+    author = "Jacob e Wilhelm Grimm",
+    publisher = "Cosac Naify",
+    year = "2014",
+    month = "abr" }
+
+@book{ LuisdaCamaraCascudo10,
+    title = "Contos tradicionais do Brasil",
+    author = "Luís da Câmara Cascudo",
+    publisher = "Global Editora",
+    year = "2014",
+    month = "nov" }
+
+@book{ MarciaTiburi11,
+    title = "Como conversar com um fascista",
+    author = "Marcia Tiburi",
+    publisher = "Editora Record",
+    year = "2015",
+    month = "jan" }
+
+@book{ DrauzioVarella12,
+    title = "Carcereiros",
+    author = "Drauzio Varella",
+    publisher = "Companhia das Letras (www.companhiadasletras.com.br)",
+    year = "2012",
+    month = "set" }
+
+@book{ RichardJ.Evans13,
+    title = "A chegada do Terceiro Reich",
+    author = "Richard J. Evans",
+    publisher = "Editora Planeta do Brasil LTDA",
+    year = "2013",
+    month = "jan" }
+
+@book{ MariaTatar14,
+    title = "Contos de fadas",
+    author = "Maria Tatar",
+    publisher = "Zahar",
+    year = "2013",
+    month = "mar" }
+
+@book{ PhilipKDick15,
+    title = "O Caçador de Androides",
+    author = "Philip K Dick",
+    publisher = "Exilado",
+    year = "2010",
+    month = "nov" }
+
+@book{ CarlosCardoso16,
+    title = "O Buraco da Beatriz",
+    author = "Carlos Cardoso",
+    publisher = "MeioBIt",
+    year = "100",
+    month = "dez" }
+
+@book{ Biblia18,
+    title = "Bíblia Sagrada",
+    author = "Bíblia",
+    publisher = "Montecristo Editora Ltda.",
+    year = "100",
+    month = "dez" }
+
+@book{ LygiaFagundesTelles19,
+    title = "Antes do Baile Verde",
+    author = "Lygia Fagundes Telles",
+    publisher = "Companhia das Letras",
+    year = "2009",
+    month = "mai" }
+
+@book{ LewisCarroll20,
+    title = "Alice",
+    author = "Lewis Carroll",
+    publisher = "Zahar",
+    year = "2012",
+    month = "out" }
+
+@misc{ NicolaAslan21,
+    title = "Comentários ao Ritual de Aprendz",
+    author = "Nicola Aslan",
+    year = "2016",
+    month = "fev" }
+
+@book{ MachadodeAssis22,
+    title = "Dom Casmurro",
+    author = "Machado de Assis",
+    publisher = "Ricardo Lourenço",
+    year = "2013",
+    month = "out" }
+
+@book{ RobertoLeonPonczek25,
+    title = "Deus ou seja a natureza: Spinoza e os novos paradigmas da física",
+    author = "Roberto Leon Ponczek",
+    publisher = "EDUFBA",
+    year = "2009",
+    month = "mai" }
+
+@book{ ErnestHemingway28,
+    title = "O velho e o mar",
+    author = "Ernest Hemingway",
+    publisher = "Bertrand Brasil",
+    year = "2013",
+    month = "mai" }
+
+@book{ RichardJ.Evans29,
+    title = "O Terceiro Reich em guerra",
+    author = "Richard J. Evans",
+    publisher = "Editora Planeta do Brasil Ltda.",
+    year = "2013",
+    month = "mai" }
+
+@book{ RichardJ.Evans30,
+    title = "O Terceiro Reich no poder",
+    author = "Richard J. Evans",
+    publisher = "Editora Planeta do Brasil Ltda.",
+    year = "2013",
+    month = "ago" }
+
+@book{ JoanLisaBromberg31,
+    title = "Teoria quântica - estudos históricos e implicações culturais",
+    author = "Joan Lisa Bromberg",
+    publisher = "EDUEPB",
+    year = "2011",
+    month = "mai" }
+
+@book{ EuclidesdaCunha32,
+    title = "Os Sertões - Volume I",
+    author = "Euclides da Cunha",
+    publisher = "Editora Abril",
+    year = "100",
+    month = "dez" }
+
+@book{ LygiaFagundesTelles33,
+    title = "Seminário dos ratos",
+    author = "Lygia Fagundes Telles",
+    publisher = "Companhia das Letras (www.companhiadasletras.com.br)",
+    year = "2011",
+    month = "mar" }
+
+@misc{ WilliamShakespeare36,
+    title = "Rei Lear",
+    author = "William Shakespeare",
+    year = "100",
+    month = "dez" }
+
+@book{ SilviaViana38,
+    title = "Rituais de sofrimento",
+    author = "Silvia Viana",
+    publisher = "Boitempo Editorial",
+    year = "2013",
+    month = "jan" }
+
+@book{ G.J.Whitrow39,
+    title = "O que é tempo?: Uma visão clássica sobre a natureza do tempo",
+    author = "G. J. Whitrow",
+    publisher = "Jorge Zahar Editor",
+    year = "2013",
+    month = "out" }
+
+@book{ PauloHenriqueAmorim40,
+    title = "O quarto poder, uma outra história",
+    author = "Paulo Henrique Amorim",
+    publisher = "Hedra",
+    year = "2015",
+    month = "ago" }
+
+@book{ JacobeWilhelmGrimm41,
+    title = "Príncipes, princesas e rainhas nos contos de Grimm",
+    author = "Jacob e Wilhelm Grimm",
+    publisher = "Cosac Naify",
+    year = "2014",
+    month = "mai" }
+
+@misc{ DarcyRibeiro42,
+    title = "O Povo Brasileiro",
+    author = "Darcy Ribeiro",
+    year = "2014",
+    month = "nov" }
+
+@book{ JimHolt44,
+    title = "Por que o mundo existe?",
+    author = "Jim Holt",
+    publisher = "Intrínseca",
+    year = "2013",
+    month = "jun" }
+
+@book{ MarioPuzo45,
+    title = "O poderoso chefão",
+    author = "Mario Puzo",
+    publisher = "Editora Record",
+    year = "100",
+    month = "dez" }
+
+@book{ MachadodeAssis46,
+    title = "Papéis Avulsos",
+    author = "Machado de Assis",
+    publisher = "Ebook Brasil",
+    year = "100",
+    month = "dez" }
+
+@book{ PedroBraga47,
+    title = "A Passagem Secreta - uma leitura política e filosófica de Alice no País das Maravilhas e no País do Espelho",
+    author = "Pedro Braga",
+    publisher = "Escrytos|Ed. Autor",
+    year = "2013",
+    month = "abr" }
+
+@book{ ClariceLispector48,
+    title = "A Paixão Segundo G.H.",
+    author = "Clarice Lispector",
+    publisher = "Rocco",
+    year = "2013",
+    month = "set",
+    custom_address = "Rio de Janeiro" }
+
+@book{ JacobeWilhelmGrimm50,
+    title = "Nonsense nos contos de Grimm",
+    author = "Jacob e Wilhelm Grimm",
+    publisher = "Cosac Naify",
+    year = "2014",
+    month = "abr" }
+
+@misc{ ErichMariaRemarque51,
+    title = "Nada de Novo no Front",
+    author = "Erich Maria Remarque",
+    year = "2014",
+    month = "mar" }
+
+@misc{ MarcosBagno52,
+    title = "Preconceito Linguístico",
+    author = "Marcos Bagno",
+    year = "2008",
+    month = "set" }
+
+@book{ LuisFernandoVerissimo53,
+    title = "As mentiras que as mulheres contam",
+    author = "Luis Fernando Verissimo",
+    publisher = "Objetiva",
+    year = "2015",
+    month = "set" }
+
+@book{ L.FrankBaum56,
+    title = "O mágico de Oz",
+    author = "L. Frank Baum",
+    publisher = "L\&PM Editores",
+    year = "100",
+    month = "dez" }
+
+@book{ MamedeMustafaJarouche57,
+    title = "Livro das mil e uma noites Vol. 3",
+    author = "Mamede Mustafa Jarouche",
+    publisher = "Editora Globo",
+    year = "2012",
+    month = "jan" }
+
+@book{ MamedeMustafaJarouche58,
+    title = "Livro das mil e uma noites Vol.4",
+    author = "Mamede Mustafa Jarouche",
+    publisher = "Editora Globo",
+    year = "2012",
+    month = "jan" }
+
+@book{ OsmanNuriTopbas59,
+    title = "İslam Espirito e Forma",
+    author = "Osman Nuri Topbas",
+    publisher = "Osman Nuri Topbas",
+    year = "100",
+    month = "dez" }
+
+@book{ MiguelReale60,
+    title = "Introdução À Filosofia",
+    author = "Miguel Reale",
+    publisher = "Editora Saraiva",
+    year = "2007",
+    month = "mai" }
+
+@book{ ClariceLispector61,
+    title = "A Hora da Estrela",
+    author = "Clarice Lispector",
+    publisher = "LeLivros",
+    year = "2016",
+    month = "jun" }
+
+@book{ ShlomoSand62,
+    title = "A invenção do povo judeu",
+    author = "Shlomo Sand",
+    publisher = "Benvirá",
+    year = "100",
+    month = "dez" }
+
+@book{ PhilipKDick63,
+    title = "O Homem do Castelo Alto",
+    author = "Philip K Dick",
+    publisher = "Exilado",
+    year = "2012",
+    month = "set" }
+
+@misc{ WilliamShakespeare65,
+    title = "Hamlet",
+    author = "William Shakespeare",
+    year = "100",
+    month = "dez" }
+
+@book{ ClariceLispector66,
+    title = "Felicidade Clandestina",
+    author = "Clarice Lispector",
+    publisher = "Exilado",
+    year = "2012",
+    month = "ago" }
+
+@book{ JacobeWilhelmGrimm68,
+    title = "Família nos contos de Grimm",
+    author = "Jacob e Wilhelm Grimm",
+    publisher = "Cosac Naify",
+    year = "2014",
+    month = "mai" }
+
+@book{ JacquesColette69,
+    title = "Existencialismo",
+    author = "Jacques Colette",
+    publisher = "L\&PM Editores",
+    year = "2013",
+    month = "jul" }
+
+@misc{ IsaacAsimov70,
+    title = "Eu, Robô",
+    author = "Isaac Asimov",
+    year = "2011",
+    month = "ago" }
+
+@misc{ DianaLichtensteinCorso71,
+    title = "Fadas no Divã - Psicanálise nas Histórias Infantis",
+    author = "Diana Lichtenstein Corso",
+    year = "2011",
+    month = "mar" }
+
+@book{ DrauzioVarella72,
+    title = "Estação Carandiru",
+    author = "Drauzio Varella",
+    publisher = "Companhia das Letras (www.companhiadasletras.com.br)",
+    year = "2012",
+    month = "jul" }
+
+@book{ AntonioRezende74,
+    title = "Curso de Filosofia",
+    author = "Antonio Rezende",
+    publisher = "Zahar",
+    year = "100",
+    month = "dez" }
+
+@book{ MuriloRubiao79,
+    title = "Murilo Rubião – Obra completa",
+    author = "Murilo Rubião",
+    publisher = "Companhia das Letras",
+    year = "2010",
+    month = "mai" }
+
+@book{ JonasGoncalvesCoelho80,
+    title = "Consciência e matéria: o dualismo de Bergson",
+    author = "Jonas Gonçalves Coelho",
+    publisher = "Editora UNESP",
+    year = "2010",
+    month = "nov" }
+
+@misc{ CarlGustavJung84,
+    title = "Sincronicidade Vol. 8/3",
+    author = "Carl Gustav Jung",
+    year = "100",
+    month = "dez" }
+
+@misc{ JosephCampbell85,
+    title = "O Herói de Mil Faces",
+    author = "Joseph Campbell",
+    year = "2013",
+    month = "dez" }
+
+@book{ AndyOram86,
+    title = "Open Source no Brasil",
+    author = "Andy Oram",
+    publisher = "O'Reilly Media, Inc.",
+    year = "2016",
+    month = "nov" }
+
+@misc{ Platao88,
+    title = "A República",
+    author = "Platão",
+    year = "2016",
+    month = "jul" }
+
+@misc{ Z.Rodrix89,
+    title = "Johaben: Diário de Um Construtor do Templo",
+    author = "Z. Rodrix",
+    year = "2012",
+    month = "mar" }
+
+@misc{ Z.Rodrix90,
+    title = "Esquin de Floyrac - O fim do Templo",
+    author = "Z. Rodrix",
+    year = "2012",
+    month = "mar" }
+
+@misc{ Z.Rodrix91,
+    title = "Zorobabel: Reconstruindo o Templo",
+    author = "Z. Rodrix",
+    year = "2012",
+    month = "mar" }
+
+@book{ StephenHawking92,
+    title = "Uma breve história do tempo",
+    author = "Stephen Hawking",
+    publisher = "Intrínseca",
+    year = "2015",
+    month = "nov" }
+
+@misc{ JoseCleiGomesFilho93,
+    title = "Espírito sobre a matéria no Rito Moderno",
+    author = "José Clei Gomes Filho",
+    year = "2016",
+    month = "dez" }
+
+@misc{ JosephCampbell94,
+    title = "O poder do mito",
+    author = "Joseph Campbell",
+    year = "100",
+    month = "dez" }
+
+@misc{ JeanPaulSartre95,
+    title = "O Ser e o Nada",
+    author = "Jean Paul Sartre",
+    year = "2013",
+    month = "dez" }
+
+@book{ J.R.R.Tolkien99,
+    title = "O Hobbit",
+    author = "J. R. R. Tolkien",
+    publisher = "WMF Martins Fontes",
+    year = "2015",
+    month = "ago" }
+
+@misc{ JeanPaulSartre100,
+    title = "O Existencialismo é um humanismo",
+    author = "Jean Paul Sartre",
+    year = "100",
+    month = "dez" }
+
+@book{ StephenHawking103,
+    title = "O universo numa casca de noz",
+    author = "Stephen Hawking",
+    publisher = "Intrínseca",
+    year = "2016",
+    month = "jan" }
+
+@misc{ J.R.R.Tolkien104,
+    title = "A Sociedade do Anel",
+    author = "J. R. R. Tolkien",
+    year = "2010",
+    month = "set" }
+
+@misc{ JosephCampbell105,
+    title = "Isto És Tú",
+    author = "Joseph Campbell",
+    year = "100",
+    month = "dez" }
+
+@misc{ TresIniciados107,
+    title = "O Caibalion",
+    author = "Tres Iniciados",
+    year = "2014",
+    month = "fev" }
+
+@book{ ArthurC.Clarke108,
+    title = "2001 Uma odisséia no espaço",
+    author = "Arthur C. Clarke",
+    publisher = "Exilado",
+    year = "2013",
+    month = "mai" }
+
+@misc{ MarcosNicolau109,
+    title = "Comunicação e Semiótica:",
+    author = "Marcos Nicolau",
+    year = "100",
+    month = "dez" }
+
+@book{ FranzKafka110,
+    title = "O Processo",
+    author = "Franz Kafka",
+    publisher = "BIIS",
+    year = "2015",
+    month = "mar" }
+
+@misc{ JohnLongshawAustin111,
+    title = "Quando dizer é fazer",
+    author = "John Longshaw Austin",
+    year = "2012",
+    month = "abr" }
+
+@misc{ ColinDyer112,
+    title = "O Simbolismo na Maçonaria",
+    author = "Colin Dyer",
+    year = "100",
+    month = "dez" }
+
+@misc{ PaulKleinman113,
+    title = "Tudo o que você precisa saber sobre filosofia",
+    author = "Paul Kleinman",
+    year = "100",
+    month = "dez" }
+
+@misc{ PaulKleinman114,
+    title = "Tudo o que você precisa saber sobre psicologia",
+    author = "Paul Kleinman",
+    year = "100",
+    month = "dez" }
+
+@book{ DaniloMarcondes115,
+    title = "Textos Básicos de Filosofia",
+    author = "Danilo Marcondes",
+    publisher = "Zahar",
+    year = "100",
+    month = "dez" }
+
+@book{ ClariceLispector116,
+    title = "Perto do coração selvagem",
+    author = "Clarice Lispector",
+    publisher = "Rocco Digital",
+    year = "2015",
+    month = "mai" }
+
+@book{ J.A.Giannotti117,
+    title = "Lições de filosofia primeira",
+    author = "J.A. Giannotti",
+    publisher = "Companhia das Letras (www.companhiadasletras.com.br)",
+    year = "2011",
+    month = "mar" }
+
+@book{ DaniloMarcondes118,
+    title = "Iniciação à História da Filosofia",
+    author = "Danilo Marcondes",
+    publisher = "Zahar",
+    year = "100",
+    month = "dez" }
+
+@misc{ Mackenzie119,
+    title = "O nascimento da filosofia Guia de estudo OK",
+    author = "Mackenzie",
+    year = "2017",
+    month = "fev" }
+
+@misc{ Mackenzie120,
+    title = "GuiaEstudo DesenvolvimentoAprendizagem",
+    author = "Mackenzie",
+    year = "2017",
+    month = "fev" }
+
+@misc{ Mackenzie121,
+    title = "Ética e cidadania Guia de estudo OK",
+    author = "Mackenzie",
+    year = "2017",
+    month = "fev" }
+
+@misc{ VitorHugoSimonsdeAlmeida125,
+    title = "O Problema da Demarcação como Problema Central da Filosofia da Ciência",
+    author = "Vitor Hugo Simons de Almeida",
+    year = "100",
+    month = "dez" }
+
+@misc{ GeorgeOrwell128,
+    title = "1984",
+    author = "George Orwell",
+    year = "2016",
+    month = "out" }
+
+@book{ RayBradbury129,
+    title = "Fahrenheit 451",
+    author = "Ray Bradbury",
+    publisher = "Globo",
+    year = "2014",
+    month = "ago" }
+
+@book{ YevgenyIvanovichZamyatin130,
+    title = "Nós",
+    author = "Yevgeny Ivanovich Zamyatin",
+    publisher = "Exilado dos livros",
+    year = "2013",
+    month = "set" }
+
+@book{ MigueldeCervantes132,
+    title = "Dom Quixote",
+    author = "Miguel de Cervantes",
+    publisher = "Companhia das Letras",
+    year = "2014",
+    month = "fev" }
+
+@book{ HowardPhillipsLovecraft134,
+    title = "Nas montanhas da loucura",
+    author = "Howard Phillips Lovecraft",
+    publisher = "Hedra",
+    year = "2015",
+    month = "ago" }
+
+@book{ ClariceLispector135,
+    title = "Laços de Família",
+    author = "Clarice Lispector",
+    publisher = "Rocco Digital",
+    year = "2015",
+    month = "abr" }
+
+@book{ ClariceLispector136,
+    title = "A Legião Estrangeira",
+    author = "Clarice Lispector",
+    publisher = "Editora Rocco",
+    year = "2016",
+    month = "nov" }
+
+@book{ ClariceLispector137,
+    title = "A cidade sitiada",
+    author = "Clarice Lispector",
+    publisher = "Editora Rocco",
+    year = "2015",
+    month = "set" }
+
+@book{ ClariceLispector138,
+    title = "Um Sopro de Vida",
+    author = "Clarice Lispector",
+    publisher = "Editora Rocco",
+    year = "1999",
+    month = "abr" }
+
+@misc{ ClariceLispector139,
+    title = "Uma Aprendizagem ou O livro dos Prazeres",
+    author = "Clarice Lispector",
+    year = "2011",
+    month = "mar" }
+
+@misc{ JohnSchember140,
+    title = "Quick Start Guide",
+    author = "John Schember",
+    year = "100",
+    month = "dez" }
+
+@book{ JoaoGuimaraesRosa141,
+    title = "João Guimarães Rosa: ficção completa, volume 1 e volume 2",
+    author = "João Guimarães Rosa",
+    publisher = "Nova Fronteira",
+    year = "2017",
+    month = "nov" }
+
+@book{ JesseSouza142,
+    title = "A elite do atraso: Da escravidão à Lava Jato",
+    author = "Jessé Souza",
+    publisher = "Leya Brasil",
+    year = "2017",
+    month = "set" }
+
+@book{ JesseSouza143,
+    title = "A radiografia do Golpe - Entenda como e por que você foi enganado",
+    author = "Jessé Souza",
+    publisher = "Leya Brasil",
+    year = "2016",
+    month = "ago" }
+
+@book{ JesseSouza144,
+    title = "A tolice da inteligência brasileira",
+    author = "Jessé Souza",
+    publisher = "Leya Brasil",
+    year = "2017",
+    month = "jun" }
+
+@book{ BakerJoanne145,
+    title = "50 ideias de Física Quântica",
+    author = "Baker, Joanne",
+    publisher = "Editora Planeta",
+    year = "2015",
+    month = "out" }
+
+@book{ PaulStrathern146,
+    title = "Bohr e a teoria quântica em 90 minutos",
+    author = "Paul Strathern",
+    publisher = "Zahar",
+    year = "2014",
+    month = "fev" }
+
+@book{ WilliamShakespeare147,
+    title = "Macbeth",
+    author = "William Shakespeare",
+    publisher = "Nova Fronteira",
+    year = "2016",
+    month = "jan" }
+
+@book{ NelsonRodrigues148,
+    title = "Teatro completo Nelson Rodrigues: tragédias cariocas",
+    author = "Nelson Rodrigues",
+    publisher = "Nova Fronteira",
+    year = "2017",
+    month = "nov" }
+
+@misc{ PierCampadello149,
+    title = "A origem do conhecimento",
+    author = "Pier Campadello",
+    year = "100",
+    month = "dez" }
+
+@misc{ MigueldeCervantesSaavedra150,
+    title = "El ingenioso hidalgo don Quijote de la Mancha",
+    author = "Miguel de Cervantes Saavedra",
+    year = "1999",
+    month = "dez" }
+
+@misc{ BrunoBettelheim152,
+    title = "A Psicanálise dos Contos de Fadas",
+    author = "Bruno Bettelheim",
+    year = "100",
+    month = "dez" }
+
+@book{ EstherSolanoGallego153,
+    title = "O ódio como política: a reinvenção da direita no Brasil",
+    author = "Esther Solano Gallego",
+    publisher = "Boitempo",
+    year = "2018",
+    month = "set" }
+
+@book{ JesseJoseFreiredeSouza154,
+    title = "Subcidadania brasileira",
+    author = "Jessé José Freire de Souza",
+    publisher = "LeYa",
+    year = "2018",
+    month = "jun" }
+
+@misc{ KennyoMahmudS.O.Ismail155,
+    title = "Relatório de Pesquisa - Maçonaria no século XXI",
+    author = "Kennyo Mahmud S. O. Ismail",
+    year = "100",
+    month = "dez" }
+
+@book{ CarlGustavJung156,
+    title = "Os arquétipos e o inconsciente coletivo 9/1",
+    author = "Carl Gustav Jung",
+    publisher = "Editora Vozes",
+    year = "2018",
+    month = "jun" }
+
+@misc{ EduardoSuplicy157,
+    title = "Em direção à renda básica de cidadania",
+    author = "Eduardo Suplicy",
+    year = "2010",
+    month = "jul" }
+
+@misc{ MarceloLessa158,
+    title = "Utilizando a Renda Basica da Cidadania para acelerar a economia",
+    author = "Marcelo Lessa",
+    year = "100",
+    month = "dez" }
+
+@misc{ AcaoEducativa159,
+    title = "A ideologia do movimento escola sem partido",
+    author = "Ação Educativa",
+    year = "2016",
+    month = "out" }
+
+@book{ AntonioBalbinoMarcalLima160,
+    title = "Ensaios sobre fenomenologia: Husserl, Heidegger e Merleau-Ponty",
+    author = "Antônio Balbino Marçal Lima",
+    publisher = "Editus",
+    year = "2014",
+    month = "mar" }
+
+@book{ AntonioIanniSegatto161,
+    title = "Wittgenstein e o problema da harmonia entre pensamento e realidade",
+    author = "Antônio Ianni Segatto",
+    publisher = "Editora UNESP",
+    year = "2015",
+    month = "mar" }
+
+@misc{ MariodeAndrade162,
+    title = "Macunaíma",
+    author = "Mário de Andrade",
+    year = "2017",
+    month = "dez" }
+
+@book{ ArthurConanDoyle163,
+    title = "Sherlock Holmes - Edição completa",
+    author = "Arthur Conan Doyle",
+    publisher = "Ediouro",
+    year = "2014",
+    month = "jan" }
+
+@book{ SigmundFreud165,
+    title = "Totem e tabu",
+    author = "Sigmund Freud",
+    publisher = "Companhia das Letras (www.companhiadasletras.com.br)",
+    year = "2013",
+    month = "mar" }
+
+@book{ JesseSouza166,
+    title = "A classe média no espelho",
+    author = "Jessé Souza",
+    publisher = "Estação Brasil",
+    year = "2018",
+    month = "out" }
+
+@book{ SigmundFreud167,
+    title = "Psicologia das massas e análise do eu",
+    author = "Sigmund Freud",
+    publisher = "L\&PM Editores",
+    year = "2013",
+    month = "jul" }
+
+@misc{ NataliaSantosBrito168,
+    title = "Programas de qualidade de vida no trabalho",
+    author = "Natália Santos Brito",
+    year = "2017",
+    month = "abr" }
+
+@book{ ArianoSuassuna169,
+    title = "As Conchambranças de Quaderna",
+    author = "Ariano Suassuna",
+    publisher = "Nova Fronteira",
+    year = "2018",
+    month = "nov" }
+
+@book{ MaryShelley170,
+    title = "FRANKENSTEIN",
+    author = "Mary Shelley",
+    publisher = "Editora Landmark",
+    year = "2016",
+    month = "jan" }
+
+@book{ ArianoSuassuna171,
+    title = "Teatro completo de Ariano Suassuna",
+    author = "Ariano Suassuna",
+    publisher = "Nova Fronteira",
+    year = "2018",
+    month = "out" }
+
+@misc{ VladimirSafatle173,
+    title = "Psicologias do fascismo",
+    author = "Vladimir Safatle",
+    year = "100",
+    month = "dez" }
+
+@misc{ RafaelPaierSaleh174,
+    title = "OIKKKKKK",
+    author = "Rafael Paier Saleh",
+    year = "100",
+    month = "dez" }
+
+@book{ SuassunaAriano175,
+    title = "Romance D'A Pedra do Reino",
+    author = "Suassuna, Ariano",
+    publisher = "Editora José Olympio",
+    year = "2014",
+    month = "fev" }
+
+@misc{ RafaelPaierSaleh177,
+    title = "O Joaquim e seu irmão",
+    author = "Rafael Paier Saleh",
+    year = "100",
+    month = "dez" }
+
+@misc{ LuizAlbertodeLimaBoscato178,
+    title = "Vivendo a sociedade alternativa: Raul Seixas no panorama da contracultura jovem.",
+    author = "Luiz Alberto de Lima Boscato",
+    year = "100",
+    month = "dez" }
+
+@book{ daEmpoliGiuliano179,
+    title = "Os engenheiros do caos",
+    author = "da Empoli, Giuliano",
+    publisher = "Vestígio Editora",
+    year = "2019",
+    month = "nov" }
+
+@book{ CarlGustavJung180,
+    title = "A Vida simbólica Vol. 1",
+    author = "Carl Gustav Jung",
+    publisher = "Editora Vozes",
+    year = "2018",
+    month = "jun" }
+
+@misc{ CarlosHMoller181,
+    title = "Kant",
+    author = "Carlos H Moller",
+    year = "2020",
+    month = "set" }
+
+@misc{ GEFilosofia185,
+    title = "Textos de apoio - Ética",
+    author = "GE Filosofia",
+    year = "100",
+    month = "dez" }
+
+@misc{ WaldemarMagaldi186,
+    title = "Jung - Vida e obra",
+    author = "Waldemar Magaldi",
+    year = "100",
+    month = "dez" }
+
+@misc{ MalenaSeguraContrera187,
+    title = "Persona e Sombra",
+    author = "Malena Segura Contrera",
+    year = "100",
+    month = "dez" }
+
+@misc{ AjaxPerezSalvador188,
+    title = "A criação da consciência - o mito de Prometeu",
+    author = "Ajax Perez Salvador",
+    year = "100",
+    month = "dez" }
+
+@misc{ MarcioPugliesi189,
+    title = "Sobre o mal",
+    author = "Marcio Pugliesi",
+    year = "100",
+    month = "dez" }
+
+@misc{ CamilaMilek190,
+    title = "Relações indecentes",
+    author = "Camila Milek and Ana Júlia Ribeiro (org.)",
+    year = "2020",
+    month = "jul" }
+
+@misc{ WaldemarMagaldi191,
+    title = "Psicologia Jungiana - Aula inaugural",
+    author = "Waldemar Magaldi",
+    year = "2019",
+    month = "mar" }
+
+@book{ FernandoPessoa192,
+    title = "Poemas de Álvaro de Campos",
+    author = "Fernando Pessoa",
+    publisher = "Textos para Reflexão",
+    year = "2013",
+    month = "out" }
+
+@book{ CarlGustavJung193,
+    title = "Psicologia do inconsciente – 7/1",
+    author = "Carl Gustav Jung",
+    publisher = "Editora Vozes",
+    year = "2013",
+    month = "dez" }
+
+@book{ KarlMarxeFriedrichEngels194,
+    title = "O Manifesto Comunista",
+    author = "Karl Marx e Friedrich Engels",
+    publisher = "Zahar",
+    year = "2014",
+    month = "abr" }
+
+@book{ CarlGustavJung195,
+    title = "A energia psíquica",
+    author = "Carl Gustav Jung",
+    publisher = "Editora Vozes",
+    year = "2014",
+    month = "mar" }
+
+@book{ CarlGustavJung196,
+    title = "O eu e o inconsciente",
+    author = "Carl Gustav Jung",
+    publisher = "Editora Vozes",
+    year = "2014",
+    month = "abr" }
+
+@misc{ J.W.VonGoethe197,
+    title = "Fausto",
+    author = "J. W. Von Goethe",
+    year = "2019",
+    month = "mai" }
+
+@misc{ LimaBarreto198,
+    title = "Triste Fim de Policarpo Quaresma",
+    author = "Lima Barreto",
+    year = "2017",
+    month = "jul" }
+
+@book{ ReginaldoPrandi199,
+    title = "Mitologia dos orixás",
+    author = "Reginaldo Prandi",
+    publisher = "Companhia das Letras",
+    year = "100",
+    month = "dez" }
+
+@misc{ G.W.F.Hegel200,
+    title = "Cursos de Estética Volume 1",
+    author = "G. W. F. Hegel",
+    year = "100",
+    month = "dez" }
+
+@misc{ MariaCristinaMarianteGuarnieri201,
+    title = "Determinantes Psicológicos do Comportamento Humano",
+    author = "Maria Cristina Mariante Guarnieri",
+    year = "100",
+    month = "dez" }
+
+@misc{ IJEP203,
+    title = "Complexos",
+    author = "IJEP",
+    year = "100",
+    month = "dez" }
+
+@misc{ WaldemarMagaldi204,
+    title = "Complexos e Inconsciente Pessoal",
+    author = "Waldemar Magaldi",
+    year = "100",
+    month = "dez" }
+
+@book{ NisedaSilveira205,
+    title = "Jung: vida e obra",
+    author = "Nise da Silveira",
+    publisher = "Editora Paz e Terra",
+    year = "1981",
+    month = "out" }
+
+@misc{ GEFilosofia206,
+    title = "Textos de apoio",
+    author = "GE Filosofia",
+    year = "100",
+    month = "dez" }
+
+@book{ DavidR.Cerbone207,
+    title = "Fenomenologia",
+    author = "David R. Cerbone",
+    publisher = "Editora Vozes",
+    year = "2012",
+    month = "dez" }
+
+@book{ CarlGustavJung208,
+    title = "O espiríto na arte e na ciência – 15",
+    author = "Carl Gustav Jung",
+    publisher = "Editora Vozes",
+    year = "2013",
+    month = "jul" }
+
+@book{ ArianoSuassuna209,
+    title = "Iniciação à Estética",
+    author = "Ariano Suassuna",
+    publisher = "Nova Fronteira",
+    year = "2018",
+    month = "nov" }
+
+@book{ Esquilo210,
+    title = "Prometeu Acorrentado",
+    author = "Ésquilo",
+    publisher = "Zahar",
+    year = "2017",
+    month = "ago" }
+
+@misc{ ErciliaSimoneDalvioMagaldi211,
+    title = "Anima e Animus",
+    author = "Ercília Simone Dalvio Magaldi",
+    year = "100",
+    month = "dez" }
+
+@misc{ TomBottomore212,
+    title = "Dicionário do pensamento Marxista",
+    author = "Tom Bottomore",
+    year = "100",
+    month = "dez" }
+
+@misc{ ArianoSuassuna214,
+    title = "O Rei Degolado ao Sol da Onça Caetana",
+    author = "Ariano Suassuna",
+    year = "100",
+    month = "dez" }
+
+@misc{ LucianaAntonioli215,
+    title = "Desenvolvimento da psique infantil através da psicologia Junguiana",
+    author = "Luciana Antonioli",
+    year = "100",
+    month = "dez" }
+
+@misc{ MalenaSeguraContrera216,
+    title = "A função transcendente e o ciclo do herói",
+    author = "Malena Segura Contrera",
+    year = "100",
+    month = "dez" }
+
+@misc{ JeanPaulSartre218,
+    title = "A Transcendência do Ego",
+    author = "Jean Paul Sartre",
+    year = "2013",
+    month = "set" }
+
+@misc{ RafaelRodriguesdeSouza221,
+    title = "Tipos psicológicos",
+    author = "Rafael Rodrigues de Souza",
+    year = "100",
+    month = "dez" }
+
+@misc{ AjaxPerezSalvador222,
+    title = "Psicogênese das doenças mentais",
+    author = "Ajax Perez Salvador",
+    year = "100",
+    month = "dez" }
+
+@book{ FriedrichNietzsche223,
+    title = "Assim falou Zaratustra",
+    author = "Friedrich Nietzsche",
+    publisher = "Textos para Reflexão",
+    year = "2013",
+    month = "mar" }
+
+@book{ SOUZAHJS.224,
+    title = "O problema da motivação moral em Kant",
+    author = "SOUZA, HJS.",
+    publisher = "Editora UNESP",
+    year = "2009",
+    month = "fev" }
+
+@book{ JACQUESMGC.etal.org.225,
+    title = "Relações sociais e ética",
+    author = "JACQUES, MGC., et al. org.",
+    publisher = "Centro Edelstein",
+    year = "2008",
+    month = "fev" }
+
+@book{ JackReynolds226,
+    title = "Existencialismo",
+    author = "Jack Reynolds",
+    publisher = "Editora Vozes",
+    year = "2013",
+    month = "fev" }
+
+@book{ KarlMarx227,
+    title = "O Capital, 8ª edição",
+    author = "Karl Marx",
+    publisher = "LTC",
+    year = "2018",
+    month = "jan" }
+
+@misc{ OtavioJunior228,
+    title = "Da minha janela",
+    author = "Otávio Júnior",
+    year = "100",
+    month = "dez" }
+
+@misc{ ArthurC.Danto229,
+    title = "A beleza e a definição filosófica da arte",
+    author = "Arthur C. Danto",
+    year = "2020",
+    month = "nov" }
+
+@misc{ ReneDescartes231,
+    title = "Meditações Metafísicas",
+    author = "René Descartes",
+    year = "2017",
+    month = "jun" }
+
+@misc{ WaldemarMagaldi232,
+    title = "Sonhos",
+    author = "Waldemar Magaldi",
+    year = "2021",
+    month = "mar" }
+
+@misc{ ErciliaSimoneDalvioMagaldi233,
+    title = "Fenomenologia",
+    author = "Ercília Simone Dalvio Magaldi",
+    year = "100",
+    month = "dez" }
+
+@misc{ MalenaSeguraContrera234,
+    title = "Mitos e Psicologia Junguiana",
+    author = "Malena Segura Contrera",
+    year = "100",
+    month = "dez" }
+
+@misc{ MariaCristinaMarianteGuarnieri236,
+    title = "Fundamentos psicológicos na crença nos espíritos",
+    author = "Maria Cristina Mariante Guarnieri",
+    year = "100",
+    month = "dez" }
+
+@book{ ThomasS.Kuhn237,
+    title = "A Estrutura das Revoluções Científicas",
+    author = "Thomas S. Kuhn",
+    publisher = "Editora Perspectiva S. A.",
+    year = "2013",
+    month = "jan" }
+
+@book{ SOUZAERC.238,
+    title = "Schopenhauer e os conhecimentos intuitivo e abstrato: uma teoria sobre as representações empíricas e abstratas",
+    author = "SOUZA, ERC.",
+    publisher = "Editora UNESP",
+    year = "2015",
+    month = "abr" }
+
+@book{ CarlGustavJung239,
+    title = "A natureza da psique",
+    author = "Carl Gustav Jung",
+    publisher = "Editora Vozes",
+    year = "2014",
+    month = "fev" }
+
+@misc{ AjaxPerezSalvador241,
+    title = "Psicopatologia Clássica",
+    author = "Ajax Perez Salvador",
+    year = "100",
+    month = "dez" }
+
+@misc{ LucianaAntonioli242,
+    title = "Etapas da vida humana alma e morte",
+    author = "Luciana Antonioli",
+    year = "2021",
+    month = "mai" }
+
+@misc{ MarcioPugliesi243,
+    title = "Filosofia e Direito - Vol 2",
+    author = "Marcio Pugliesi",
+    year = "100",
+    month = "dez" }
+
+@misc{ MarcioPugliesi244,
+    title = "Filosofia e Direito - Vol 1",
+    author = "Marcio Pugliesi",
+    year = "100",
+    month = "dez" }
+
+@book{ Marie-LouisevonFranz251,
+    title = "O caminho dos sonhos",
+    author = "Marie-Louise von Franz",
+    publisher = "Editora Cultrix",
+    year = "100",
+    month = "dez" }
+
+@book{ FernandoPessoa252,
+    title = "Poemas Completo de Álvaro de Campos",
+    author = "Fernando Pessoa",
+    publisher = "Amargo",
+    year = "2015",
+    month = "set" }
+
+@book{ Desconhecido253,
+    title = "Kant e o A priori",
+    author = "Desconhecido",
+    publisher = "Editora UNESP",
+    year = "2017",
+    month = "jun" }
+
+@misc{ LuizGaldino254,
+    title = "Mitologia indígena",
+    author = "Luiz Galdino",
+    year = "2018",
+    month = "ago" }
+
+@misc{ ANDRELDCUNHA255,
+    title = "ENTENDENDO A CRÍTICA DA RAZÃO PURA DE IMMANUEL KANT",
+    author = "ANDRE L D CUNHA",
+    year = "100",
+    month = "dez" }
+
+@book{ DaniloMarcondes256,
+    title = "Kant e a filosofia crítica",
+    author = "Danilo Marcondes",
+    publisher = "Zahar",
+    year = "2016",
+    month = "dez" }
+
+@misc{ Desconhecido258,
+    title = "A epopéia de Gilgamesh",
+    author = "Desconhecido",
+    year = "100",
+    month = "dez" }
+
+@misc{ MariadaGloriaG.deMiranda259,
+    title = "A importância dos contos de fadas na psicologia Junguiana",
+    author = "Maria da Glória G. de Miranda",
+    year = "100",
+    month = "dez" }
+
+@misc{ CarlosHMoller261,
+    title = "Pré Popper",
+    author = "Carlos H Moller",
+    year = "100",
+    month = "dez" }
+
+@misc{ J.J.Clarke262,
+    title = "Em busca de Jung",
+    author = "J. J. Clarke",
+    year = "100",
+    month = "dez" }
+
+@misc{ MariaCristinaMarianteGuarnieri263,
+    title = "Psicologia Profunda e a nova ética - arquétipo do curador ferido e arquétipo do inválido",
+    author = "Maria Cristina Mariante Guarnieri",
+    year = "100",
+    month = "dez" }
+
+@misc{ Platao265,
+    title = "Fédon - a imortalidade da alma",
+    author = "Platão",
+    year = "2012",
+    month = "set" }
+
+@misc{ Platao267,
+    title = "O Banquete",
+    author = "Platão",
+    year = "2012",
+    month = "set" }
+
+@misc{ SalliedNichols268,
+    title = "Jung e o Tarô - Uma Jornada Arquetípica",
+    author = "Sallied Nichols",
+    year = "100",
+    month = "dez" }
+
+@book{ NADAIB.269,
+    title = "Progresso e moral na filosofia da história de Kant",
+    author = "NADAI, B.",
+    publisher = "Editora UFABC",
+    year = "2017",
+    month = "jul" }
+
+@misc{ JoseLuizBalestrini270,
+    title = "O mito de Sísifo e homem contemporâneo",
+    author = "José Luiz Balestrini",
+    year = "2021",
+    month = "jul" }
+
+@misc{ PauloBezerra271,
+    title = "Polifonia em Bakhtin",
+    author = "Paulo Bezerra",
+    year = "100",
+    month = "dez" }
+
+@book{ CarlGustavJung272,
+    title = "Símbolos da transformação",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2018",
+    month = "jun" }
+
+@book{ CarlGustavJung273,
+    title = "Estudos Alquímicos 13",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2011",
+    month = "mar" }
+
+@book{ CarlGustavJung274,
+    title = "Ab-Reação, Análise dos Sonhos e Transferência 16/2",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "1971",
+    month = "jan" }
+
+@misc{ LilianWurzba277,
+    title = "Interpretação psicolótica do dogma da Trindade",
+    author = "Lilian Wurzba",
+    year = "100",
+    month = "dez" }
+
+@misc{ LilianWurzba278,
+    title = "Dionisio",
+    author = "Lilian Wurzba",
+    year = "100",
+    month = "dez" }
+
+@book{ JairBarboza281,
+    title = "Schopenhauer: a decifração do enigma do mundo",
+    author = "Jair Barboza",
+    publisher = "PAULUS Editora",
+    year = "2016",
+    month = "jun" }
+
+@book{ ClariceLispector282,
+    title = "A bela e a fera",
+    author = "Clarice Lispector",
+    publisher = "Editora Rocco",
+    year = "2020",
+    month = "mar" }
+
+@misc{ ErciliaSimoneDalvioMagaldi284,
+    title = "Jung - Nietzsche",
+    author = "Ercília Simone Dalvio Magaldi",
+    year = "100",
+    month = "dez" }
+
+@misc{ ErciliaSimoneDalvioMagaldi285,
+    title = "Jung - Schopenhauer",
+    author = "Ercília Simone Dalvio Magaldi",
+    year = "100",
+    month = "dez" }
+
+@misc{ Unknown287,
+    title = "Metafísica - Texto",
+    author = "Unknown",
+    year = "100",
+    month = "dez" }
+
+@misc{ GeraldaAparecidaDias288,
+    title = "Literatura e resistência",
+    author = "Geralda Aparecida Dias",
+    year = "100",
+    month = "dez" }
+
+@misc{ MalenaSeguraContrera292,
+    title = "Crono e o complexo paterno",
+    author = "Malena Segura Contrera",
+    year = "100",
+    month = "dez" }
+
+@misc{ LilianWurzba293,
+    title = "Aion",
+    author = "Lilian Wurzba",
+    year = "100",
+    month = "dez" }
+
+@book{ JunitodeSouzaBrandao295,
+    title = "Mitologia Grega Volume 3",
+    author = "Junito de Souza Brandão",
+    publisher = "Vozes (www.vozes.com.br)",
+    year = "2021",
+    month = "ago" }
+
+@book{ JunitodeSouzaBrandao296,
+    title = "Mitologia Grega Volume 1",
+    author = "Junito de Souza Brandão",
+    publisher = "Vozes (www.vozes.com.br)",
+    year = "2021",
+    month = "ago" }
+
+@book{ SigmundFreud297,
+    title = "O mal-estar na civilização",
+    author = "Sigmund Freud",
+    publisher = "Penguin-Companhia",
+    year = "2012",
+    month = "jan" }
+
+@book{ HumberthoOliveiraRoqueTadeuGuiRubensBragarnich298,
+    title = "O insaciável espírito da época",
+    author = "Humbertho Oliveira, Roque Tadeu Gui, Rubens Bragarnich",
+    publisher = "Vozes (www.vozes.com.br)",
+    year = "2021",
+    month = "ago" }
+
+@misc{ MMTC299,
+    title = "Platão\_BOX\_As Grandes Obras",
+    author = "MMTC",
+    year = "2021",
+    month = "fev" }
+
+@misc{ ErciliaSimoneDalvioMagaldi304,
+    title = "Sincronicidade",
+    author = "Ercília Simone Dalvio Magaldi",
+    year = "100",
+    month = "dez" }
+
+@book{ CarlGustavJung305,
+    title = "Resposta a Jó - 11/4",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "1952",
+    month = "jan" }
+
+@misc{ WaldemarMagaldi306,
+    title = "Resposta a Jó",
+    author = "Waldemar Magaldi",
+    year = "100",
+    month = "dez" }
+
+@book{ CarlGustavJung307,
+    title = "O homem e seus símbolos",
+    author = "Carl Gustav Jung",
+    publisher = "HarperCollins Brasil",
+    year = "2018",
+    month = "mai" }
+
+@book{ CarlGustavJung308,
+    title = "Civilização em transição - 10/3",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2011",
+    month = "mar" }
+
+@book{ CarlGustavJung309,
+    title = "Aspectos do drama contemporâneo - 10/2",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2011",
+    month = "mar" }
+
+@misc{ CarlGustavJung312,
+    title = "Presente e futuro - 10/1",
+    author = "Carl Gustav Jung",
+    year = "100",
+    month = "dez" }
+
+@book{ CarlGustavJung313,
+    title = "Psicologia e religião 11/1",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "1990",
+    month = "mai" }
+
+@misc{ MariaCristinaMarianteGuarnieri314,
+    title = "Psicologia e religião ocidental",
+    author = "Maria Cristina Mariante Guarnieri",
+    year = "100",
+    month = "dez" }
+
+@misc{ immanuelKant315,
+    title = "Resposta à questão: o que é esclarecimento?",
+    author = "immanuel Kant",
+    year = "100",
+    month = "dez" }
+
+@book{ CarlGustavJung316,
+    title = "Tipos psicológicos - 6",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2011",
+    month = "mar" }
+
+@misc{ MarciaReginadaSilvaRamosCarneiro317,
+    title = "Mitologias, síntese e ação: “Deus, Pátria e Família”",
+    author = "Marcia Regina da Silva Ramos Carneiro",
+    year = "2020",
+    month = "jun" }
+
+@misc{ GianniFresu318,
+    title = "O fascismo: interpretações historiográficas em comparação",
+    author = "Gianni Fresu",
+    year = "2019",
+    month = "jun" }
+
+@misc{ GiovanniFresu319,
+    title = "O fascismo: Quadro histórico geral",
+    author = "Giovanni Fresu",
+    year = "2019",
+    month = "abr" }
+
+@misc{ GiovanniFresu320,
+    title = "O fascismo: ascensão e crise",
+    author = "Giovanni Fresu",
+    year = "2019",
+    month = "abr" }
+
+@misc{ AdornoTheodorW.;HorkheimerMax321,
+    title = "Dialética do Esclarecimento",
+    author = "Adorno, Theodor W.; Horkheimer, Max",
+    year = "2016",
+    month = "mar" }
+
+@misc{ WilhelmReich322,
+    title = "Psicologia de Massas do Fascismo",
+    author = "Wilhelm Reich",
+    year = "100",
+    month = "dez" }
+
+@book{ CarlGustavJung323,
+    title = "Um mito moderno sobre coisas vistas no céu - 10/4",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2011",
+    month = "jan" }
+
+@misc{ ArmandoBoitoJr.324,
+    title = "O neofascismo no Brasil",
+    author = "Armando Boito Jr.",
+    year = "2019",
+    month = "mai" }
+
+@book{ EmileDurkheim326,
+    title = "As regras do método sociológico",
+    author = "Émile Durkheim",
+    publisher = "Editora Vozes",
+    year = "2020",
+    month = "jan" }
+
+@book{ MauraVeras327,
+    title = "Introdução a sociologia",
+    author = "Maura Veras",
+    publisher = "PAULUS Editora",
+    year = "2014",
+    month = "abr" }
+
+@book{ HumberthoOliveira328,
+    title = "Desvelando a alma brasileira: psicologia junguiana e raízes culturais",
+    author = "Humbertho Oliveira",
+    publisher = "Editora Vozes",
+    year = "2019",
+    month = "mar" }
+
+@book{ WalterBoechat(org.)329,
+    title = "A alma brasileira : luzes e sombra",
+    author = "Walter Boechat (org.)",
+    publisher = "Editora Vozes",
+    year = "2014",
+    month = "nov" }
+
+@misc{ GustaveLeBon332,
+    title = "Psicologia das Multidões",
+    author = "Gustave Le Bon",
+    year = "100",
+    month = "dez" }
+
+@misc{ Aristoteles333,
+    title = "Metafísica Livros IV e VI",
+    author = "Aristóteles",
+    year = "100",
+    month = "dez" }
+
+@misc{ AjaxPerezSalvador334,
+    title = "O mito do significado - o processo de individuação",
+    author = "Ajax Perez Salvador",
+    year = "100",
+    month = "dez" }
+
+@misc{ ErciliaSimoneDalvioMagaldi335,
+    title = "O mito de Deméter Perséfone e Hécate",
+    author = "Ercília Simone Dalvio Magaldi",
+    year = "100",
+    month = "dez" }
+
+@misc{ OsvaldoCoggiola336,
+    title = "Entre a glória e o pesadelo",
+    author = "Osvaldo Coggiola and Rodrigo Medina Zagni",
+    year = "100",
+    month = "dez" }
+
+@book{ HarariYuvalNoah337,
+    title = "Homo Deus: Uma breve história do amanhã",
+    author = "Harari, Yuval Noah",
+    publisher = "Companhia das Letras",
+    year = "2016",
+    month = "nov" }
+
+@misc{ MarilenaChaui338,
+    title = "Convite à Filosofia",
+    author = "Marilena Chaui",
+    year = "2014",
+    month = "jun" }
+
+@book{ BertrandRussell339,
+    title = "Box História da filosofia ocidental",
+    author = "Bertrand Russell",
+    publisher = "Nova Fronteira",
+    year = "2019",
+    month = "jul" }
+
+@misc{ MariadaGloriaG.deMiranda340,
+    title = "Individuação e redenção nos contos de fadas",
+    author = "Maria da Glória G. de Miranda",
+    year = "100",
+    month = "dez" }
+
+@misc{ LucianaAntonioli341,
+    title = "Puer e senex",
+    author = "Luciana Antonioli",
+    year = "100",
+    month = "dez" }
+
+@misc{ Marie-LouisevonFranz344,
+    title = "A Interpretação dos Contos de Fada",
+    author = "Marie-Louise von Franz",
+    year = "100",
+    month = "dez" }
+
+@misc{ LucianaAntonioli345,
+    title = "Os Complexos Afetivos e suas Expressões Psicossomáticas",
+    author = "Luciana Antonioli",
+    year = "100",
+    month = "dez" }
+
+@misc{ MalenaSeguraContrera346,
+    title = "Helena, Clitemnestra e Cassandra - O Feminino Ferido",
+    author = "Malena Segura Contrera",
+    year = "100",
+    month = "dez" }
+
+@misc{ SantoAgostinho347,
+    title = "Confissões",
+    author = "Santo Agostinho",
+    year = "100",
+    month = "dez" }
+
+@misc{ ErciliaSimoneDalvioMagaldi348,
+    title = "Processo de individuação e revisão",
+    author = "Ercília Simone Dalvio Magaldi",
+    year = "2022",
+    month = "jul" }
+
+@misc{ IJEP349,
+    title = "Conceitos Junguianos",
+    author = "IJEP",
+    year = "2019",
+    month = "fev" }
+
+@book{ JunitodeSouzaBrandao350,
+    title = "Mitologia Grega - Volume II",
+    author = "Junito de Souza Brandão",
+    publisher = "Vozes (www.vozes.com.br )",
+    year = "2021",
+    month = "nov" }
+
+@book{ AntonTchekhov351,
+    title = "Quatro peças",
+    author = "Anton Tchékhov",
+    publisher = "Penguin-Companhia",
+    year = "2021",
+    month = "set" }
+
+@misc{ DeniseMathias352,
+    title = "Sonhos de criança no referencial teórico da psicologia analítica",
+    author = "Denise Mathias",
+    year = "2012",
+    month = "mar" }
+
+@misc{ JosephCampbell353,
+    title = "As Máscaras de Deus - Mitologia Oriental",
+    author = "Joseph Campbell",
+    year = "2013",
+    month = "dez" }
+
+@book{ Vv.Aa.354,
+    title = "Bíblia Sagrada - Edição Pastoral",
+    author = "Vv.Aa.",
+    publisher = "PAULUS Editora",
+    year = "2022",
+    month = "jun" }
+
+@misc{ MarcoSabatini355,
+    title = "O Apolo do desmesurado nascimento da tragédia contra os intérpretes de Nietzsche",
+    author = "Marco Sabatini",
+    year = "2015",
+    month = "set" }
+
+@book{ ArthurMiller357,
+    title = "The Crucible",
+    author = "Arthur Miller",
+    publisher = "Penguin Publishing Group",
+    year = "2003",
+    month = "mar" }
+
+@misc{ LuisCarlosPetry358,
+    title = "Fascismo de massa",
+    author = "Luís Carlos Petry and Rudá Ricci",
+    year = "2022",
+    month = "mar" }
+
+@misc{ RudaRicci359,
+    title = "FASCISMO BRASILEIRO : E o Brasil gerou o seu ovo da serpente",
+    author = "Rudá Ricci",
+    year = "2022",
+    month = "jan" }
+
+@misc{ AlinedeSouzaTaconeli360,
+    title = "Apolo e Dionísio: Opostos complementares e o processo de individuação a partir de Jung e Nietzsche",
+    author = "Aline de Souza Taconeli",
+    year = "2016",
+    month = "out" }
+
+@book{ FriedrichNietzsche361,
+    title = "O nascimento da tragédia",
+    author = "Friedrich Nietzsche",
+    publisher = "Companhia das Letras",
+    year = "100",
+    month = "dez" }
+
+@misc{ MariaCristinaMarianteGuarnieri362,
+    title = "Hermes e Exu - Psicopompo",
+    author = "Maria Cristina Mariante Guarnieri",
+    year = "100",
+    month = "dez" }
+
+@book{ DudleyWill364,
+    title = "Idealismo Alemão (Coleção Pensamento Moderno)",
+    author = "Dudley Will",
+    publisher = "Editora Vozes",
+    year = "2013",
+    month = "jan" }
+
+@book{ CarlGustavJung365,
+    title = "Mysterium Coniunctionis - 14/1",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2018",
+    month = "jun" }
+
+@book{ CarlGustavJung366,
+    title = "Mysterium Coniunctionis - 14/2",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2011",
+    month = "mar" }
+
+@book{ CarlGustavJung367,
+    title = "Mysterium Coniunctionis - 14/3",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2021",
+    month = "fev" }
+
+@book{ CarlGustavJung368,
+    title = "Aion: Estudos sobre o simbolismo do si-mesmo - 9/2",
+    author = "Carl Gustav Jung",
+    publisher = "Vozes",
+    year = "2012",
+    month = "dez" }
+
+@misc{ NorbertoBobbio369,
+    title = "Dicionário de Política",
+    author = "Norberto Bobbio",
+    year = "100",
+    month = "dez" }
+
+@misc{ JohnSteinbeck370,
+    title = "Of Mice and Men(19th century classics illustrated edition)",
+    author = "John Steinbeck",
+    year = "2022",
+    month = "mai" }
+
+@book{ UmbertoEco371,
+    title = "O fascismo eterno",
+    author = "Umberto Eco",
+    publisher = "Record",
+    year = "2018",
+    month = "dez" }
+
+@misc{ ThomasMorrison372,
+    title = "Kant resolveu o ceticismo",
+    author = "Thomas Morrison",
+    year = "2022",
+    month = "set" }
+
+@misc{ FritjofCapra373,
+    title = "Ponto de Mutação",
+    author = "Fritjof Capra",
+    year = "2015",
+    month = "jun" }
+
+@book{ JasonStanley374,
+    title = "Como funciona o fascismo",
+    author = "Jason Stanley",
+    publisher = "L\&PM Editores",
+    year = "2018",
+    month = "dez" }
+
+@misc{ FernandodaSilvaMagalhaes375,
+    title = "Maçonaria e Educação: contribuições para o ideário republicano (1889-1930)",
+    author = "Fernando da Silva Magalhães",
+    year = "2014",
+    month = "set" }
+
+@book{ immanuelKant376,
+    title = "Crítica da razão pura",
+    author = "immanuel Kant",
+    publisher = "Edipro Edições",
+    year = "2020",
+    month = "dez" }
+
+@book{ AiltonKrenak377,
+    title = "O amanhã não está à venda",
+    author = "Ailton Krenak",
+    publisher = "Companhia das Letras",
+    year = "100",
+    month = "dez" }
+
+@book{ REISFW.378,
+    title = "Política e racionalidade: problemas de teoria e método de uma sociologia crítica da política",
+    author = "REIS, FW.",
+    publisher = "Centro Edelstein de Pesquisas Sociais",
+    year = "2010",
+    month = "dez" }
+
+@book{ LIMADMO.379,
+    title = "Diálogo entre a sociologia e a psicanálise: o indivíduo e o sujeito",
+    author = "LIMA, DMO.",
+    publisher = "EDUFBA",
+    year = "2012",
+    month = "dez" }
+
+@misc{ PatriciaPavas380,
+    title = "A Imagem Sagrada do Ovo",
+    author = "Patrícia Pavas",
+    year = "2019",
+    month = "abr" }
+
+@book{ JosephCampbell382,
+    title = "O voo do pássaro selvagem",
+    author = "Joseph Campbell",
+    publisher = "Exilado",
+    year = "2013",
+    month = "ago" }
+
+@misc{ JoaquimdeCarvalho383,
+    title = "Introdução à ética de Espinosa",
+    author = "Joaquim de Carvalho",
+    year = "100",
+    month = "dez" }
+
+@misc{ JoaquimdeCarvalho384,
+    title = "Introdução à metafísica de Aristóteles",
+    author = "Joaquim de Carvalho",
+    year = "100",
+    month = "dez" }
+
+@book{ FredericLenoir385,
+    title = "O milagre Espinosa: uma filosofia para iluminar nossa vida",
+    author = "Frédéric Lenoir",
+    publisher = "Editora Vozes",
+    year = "2020",
+    month = "mar" }
+
+@book{ MarilenaChaui386,
+    title = "Desejo, paixão e ação na ética de Espinosa",
+    author = "Marilena Chaui",
+    publisher = "Companhia das Letras (www.companhiadasletras.com.br)",
+    year = "2011",
+    month = "mai" }
+
+@book{ ChantalJaquet387,
+    title = "A unidade do corpo e da mente",
+    author = "Chantal Jaquet",
+    publisher = "Autêntica",
+    year = "2013",
+    month = "jul" }
+
+@book{ BaruchSpinoza388,
+    title = "ÉTICA",
+    author = "Baruch Spinoza",
+    publisher = "LeBooks Editora",
+    year = "2020",
+    month = "jan" }
+
+@book{ MarilenaChaui389,
+    title = "A nervura do real II",
+    author = "Marilena Chaui",
+    publisher = "Companhia das Letras (www.companhiadasletras.com.br)",
+    year = "2016",
+    month = "ago" }
+
+@misc{ JoseLuisFrancodosSantos390,
+    title = "No portal da velhice",
+    author = "José Luís Franco dos Santos",
+    year = "2023",
+    month = "fev" }
+
+@book{ SilviaFederici393,
+    title = "Calibã e a bruxa",
+    author = "Silvia Federici",
+    publisher = "Editora Elefante",
+    year = "2019",
+    month = "mai" }
+
+@book{ EliphasLevi394,
+    title = "Dogma e Ritual da Alta Magia",
+    author = "Éliphas Lévi",
+    publisher = "Textos para Reflexão",
+    year = "2022",
+    month = "fev" }
+
+@misc{ AndersonPires395,
+    title = "Ele não vai gostar de ler",
+    author = "Anderson Pires",
+    year = "2022",
+    month = "out" }
+
+@book{ EliphasLevi396,
+    title = "O Grande Arcano",
+    author = "Éliphas Lévi",
+    publisher = "Textos para Reflexão",
+    year = "2022",
+    month = "jun" }
+
+@book{ AntonioGramsci398,
+    title = "Cadernos do cárcere - vol. 3",
+    author = "Antonio Gramsci",
+    publisher = "elivros.love",
+    year = "2017",
+    month = "out" }
+
+@book{ JoaoCezardeCastroRocha399,
+    title = "Guerra cultural e retórica do ódio: crônicas de um Brasil pós-político",
+    author = "João Cezar de Castro Rocha",
+    publisher = "elivros.love",
+    year = "2021",
+    month = "fev" }
+
+@book{ WilliamShakespeare400,
+    title = "William Shakespeare Teatro completo – v. 1",
+    author = "William Shakespeare",
+    publisher = "Editora Nova Aguilar",
+    year = "2022",
+    month = "abr" }
+
+@book{ C.G.Jung401,
+    title = "O desenvolvimento da personalidade – 17",
+    author = "C.G. Jung",
+    publisher = "Editora Vozes",
+    year = "2014",
+    month = "jan" }
+
+@book{ CelsoCastro402,
+    title = "Textos Básicos de Sociologia",
+    author = "Celso Castro",
+    publisher = "Zahar",
+    year = "2014",
+    month = "mai" }
+
+@book{ JoaoBernardo403,
+    title = "Labirintos do fascismo: A teia dos fascismos",
+    author = "João Bernardo and Paulo Henrique Pompermaier",
+    publisher = "editora hedra",
+    year = "2022",
+    month = "jul" }
+
+@book{ PauloHenriquePompermaier404,
+    title = "Labirintos do fascismo: Uma política sem economia?",
+    author = "Paulo Henrique Pompermaier and João Bernardo",
+    publisher = "editora hedra",
+    year = "2022",
+    month = "jul" }
+
+@book{ CarlGustavJung405,
+    title = "Memórias, sonhos, reflexões",
+    author = "Carl Gustav Jung",
+    publisher = "Nova Fronteira",
+    year = "2016",
+    month = "nov" }
+
+@book{ PedroA.MorettinSamuelHazzaneWiltondeO.Bussab406,
+    title = "Cálculo: funções de uma e várias variáveis",
+    author = "Pedro A. Morettin, Samuel Hazzan e Wilton de O. Bussab",
+    publisher = "Saraiva Educação",
+    year = "2016",
+    month = "fev" }
+
+@book{ C.G.Jung407,
+    title = "Sincronicidade",
+    author = "C.G. Jung",
+    publisher = "Editora Vozes",
+    year = "2018",
+    month = "jun" }
+
+@misc{ PatriciadeAraujoCaldeiraBrito409,
+    title = "O fio como símbolo no destecer e tecer",
+    author = "Patricia de Araújo Caldeira Brito",
+    year = "100",
+    month = "dez" }
+
+@misc{ JulianaSantanaMoraesdeOliveira410,
+    title = "Sincronicidade e o momento pandêmico - psicologia e ecologia",
+    author = "Juliana Santana Moraes de Oliveira",
+    year = "100",
+    month = "dez" }
+
+@misc{ WolfgangPauli411,
+    title = "The influence of archetypal ideas on the scientific theories of Kepler",
+    author = "Wolfgang Pauli",
+    year = "2013",
+    month = "mar" }
+
+@misc{ HaraldAtmanspacher412,
+    title = "The Pauli–Jung Conjecture and Its Relatives: A Formally Augmented Outline",
+    author = "Harald Atmanspacher",
+    year = "2020",
+    month = "set" }
+
+@misc{ CarlosBynton413,
+    title = "Uma teoria simbólica da história",
+    author = "Carlos Bynton",
+    year = "2019",
+    month = "jul" }
+
+@misc{ FabianoAntonioRodrigues414,
+    title = "A descoberta filosofica em o ovo e a galinha de Clarice Lispector",
+    author = "Fabiano Antonio Rodrigues",
+    year = "2020",
+    month = "fev" }
+
+@book{ EloisaM.D.Penna415,
+    title = "Epistemologia e método Jung",
+    author = "Eloisa M. D. Penna",
+    publisher = "Educ - Editora da PUC-SP",
+    year = "2014",
+    month = "mai" }
+
+@misc{ CristianedeJesusLago416,
+    title = "O trauma de mulheres vítimas de abuso sexual na infância",
+    author = "Cristiane de Jesus Lago",
+    year = "100",
+    month = "dez" }
+
+@book{ C.G.Jung417,
+    title = "O Zaratustra de Nietzsche I",
+    author = "C. G. Jung",
+    publisher = "Editora Vozes",
+    year = "2023",
+    month = "set" }
+
+@misc{ CarlosHMoller418,
+    title = "Trans-formação e Trans-figuração",
+    author = "Carlos H Moller",
+    year = "2023",
+    month = "out" }
+
+@misc{ Varios419,
+    title = "Termos ambíguos do debate político atual - Pequeno dicionário",
+    author = "Vários",
+    year = "2023",
+    month = "nov" }
+
+@book{ SamuelBeckett423,
+    title = "Esperando Godot",
+    author = "Samuel Beckett",
+    publisher = "Cosac Naify",
+    year = "2015",
+    month = "jun" }
+
+@misc{ FabioHenriquedeOliveira424,
+    title = "Maçonaria e Judaismo",
+    author = "Fábio Henrique de Oliveira",
+    year = "2024",
+    month = "abr" }
+
+@misc{ MachadodeAssis425,
+    title = "Memórias Póstumas de Brás Cubas",
+    author = "Machado de Assis",
+    year = "2019",
+    month = "jan" }
+
+@book{ ClariceLispector426,
+    title = "A descoberta do mundo",
+    author = "Clarice Lispector",
+    publisher = "Editora Rocco",
+    year = "2020",
+    month = "jun" }
+
+@book{ PaoloFrancescoPieri427,
+    title = "Dicionário Junguiano",
+    author = "Paolo Francesco Pieri",
+    publisher = "Vozes (www.vozes.com.br)",
+    year = "2022",
+    month = "out" }
+
+@book{ ArianoSuassuna428,
+    title = "História d’O Rei Degolado nas Caatingas do Sertão",
+    author = "Ariano Suassuna",
+    publisher = "Nova Fronteira",
+    year = "2023",
+    month = "jun" }
+
+@misc{ EdgarMorineJoseMariaTavaresdeAndrade429,
+    title = "INICIAÇÃO AO PENSAMENTO COMPLEXO",
+    author = "Edgar Morin e José Maria Tavares de Andrade and Edgar Morin",
+    year = "2015",
+    month = "dez" }
+
+@book{ BEZERRACM.430,
+    title = "Inovações tecnológicas e a complexidade do sistema econômico",
+    author = "BEZERRA, CM.",
+    publisher = "Editora UNESP",
+    year = "2010",
+    month = "out" }
+
+@book{ SylviaIasulaitis431,
+    title = "Estudos sociopolíticos da Inteligência Artificial",
+    author = "Sylvia Iasulaitis and Amadeu da Silveira",
+    publisher = "EDUEPB",
+    year = "2025",
+    month = "dez" }
+
+@misc{ SergioAmadeuSilveira432,
+    title = "Inteligência artificial, sociedade e classe",
+    author = "Sérgio Amadeu Silveira",
+    year = "2025",
+    month = "dez" }
+
+@misc{ NiklasLuhmann433,
+    title = "Social Systems",
+    author = "Niklas Luhmann",
+    year = "2010",
+    month = "set" }
+
+@misc{ NiklasLuhmann434,
+    title = "A nova teoria dos sistemas",
+    author = "Niklas Luhmann",
+    year = "2022",
+    month = "jul" }
+
+@book{ FriedrichNietzsche435,
+    title = "Crepúsculo dos ídolos",
+    author = "Friedrich Nietzsche",
+    publisher = "Companhia das Letras",
+    year = "2017",
+    month = "fev" }
+
+@misc{ ElenaEsposito440,
+    title = "Does Explainability Require Transparency?",
+    author = "Elena Esposito",
+    year = "100",
+    month = "dez" }
+
+@misc{ JulioLabrana441,
+    title = "Hacia una sociología cósmica: ¿pueden solo las conciencias de los seres humanos irritar a la comunicación?",
+    author = "Julio Labraña",
+    year = "100",
+    month = "dez" }
+
+@misc{ ElenaEsposito442,
+    title = "Artificial Communication? The Production of Contingency by Algorithms",
+    author = "Elena Esposito",
+    year = "100",
+    month = "dez" }
+
+@misc{ EmersonPalmieri446,
+    title = "O conceito de esfera pública em Niklas Luhmann e o problema da assimetria representativa",
+    author = "Emerson Palmieri",
+    year = "2026",
+    month = "mai" }
+
+@misc{ EmersonPalmieri447,
+    title = "O lugar da critica na teoria dos meios de massa de Luhmann",
+    author = "Emerson Palmieri",
+    year = "2026",
+    month = "mai" }
+
+@book{ bellhooks;traducaodeManuQuadrosLubiPrates448,
+    title = "A vontade de mudar: homens, masculinidades e amor",
+    author = "bell hooks; tradução de Manu Quadros, Lubi Prates",
+    publisher = "Elefante",
+    year = "2025",
+    month = "mar" }
+
