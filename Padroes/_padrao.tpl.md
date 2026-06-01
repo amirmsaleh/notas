@@ -1,7 +1,7 @@
 ---
 title: "${1:Titulo}"
 date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE
-id: $ZKN_ID
+id: $CURRENT_ID
 tags: #temp
 ---
 
